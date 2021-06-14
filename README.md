@@ -16,4 +16,8 @@ Finally, we merge the BED files generated from all libraries to calculate a binn
 * [GPSeq Paper](resources/gpseq-paper.pdf) (pdf).
 * [GPSeq Supplementary Information](resources/gpseq-si.pdf) (pdf).
 
-In particular, we recommend reading the two Supplementary Notes to the paper (see Supplementary Information) to learn about GPSeq score calculation, and effects of enzyme-choice and coverage on the GPSeq score itself.
+### Assignments
+
+* Read the GPSeq paper.
+* Read the two Supplementary Notes to the paper (see Supplementary Information) to learn about GPSeq score calculation, and effects of enzyme-choice and coverage on the GPSeq score itself.
+* \[optional] have a look at the [radiantkit](https://github.com/ggirelli/radiantkit) and [fastx-barber](https://github.com/ggirelli/fastx-barber) packages, which will be used in the next assignments.
